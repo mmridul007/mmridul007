@@ -1,66 +1,139 @@
-# Hi there, I'm Ridul 👋
-
-## 🎓 About Me
-
-I'm a **Computer Science and Engineering graduate** from Daffodil International University with a passion for building scalable web applications and exploring data engineering.
-
-- 🔭 Currently working with the **MERN Stack** with strong expertise in backend development
-- 🌱 Learning **Data Engineering** on DataCamp
-- 💼 Specialized in **Node.js, Express.js, MongoDB & MySQL**
-- 🚀 Always eager to learn new technologies and solve complex problems
-
----
-
-## 🛠️ Technologies & Tools
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
   
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true)
+# 👨‍💻 MD. MOSTAK AHAMED MRIDUL
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true)
+### Full Stack Developer | Backend Specialist | Data Engineering Enthusiast
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Backend+Engineering+Expert;Data+Engineering+Student;Building+Scalable+Solutions)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 📫 How to Reach Me
+## 🚀 About Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mmridul116@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+8801719877736)
+```javascript
+const mridul = {
+    education: "CSE Graduate @ Daffodil International University",
+    currentFocus: "Data Engineering @ DataCamp",
+    expertise: ["Backend Development", "Full Stack Development", "Database Design"],
+    strongPoints: ["Node.js", "Express.js", "MongoDB", "MySQL"],
+    technologies: {
+        frontend: ["HTML5", "CSS3", "JavaScript", "React", "Tailwind CSS"],
+        backend: ["Node.js", "Express.js"],
+        databases: ["MongoDB", "MySQL"],
+        languages: ["JavaScript", "Python", "C", "C++"]
+    },
+    currentlyLearning: "Data Engineering & Advanced Backend Architecture",
+    funFact: "I debug in production... sometimes 😅"
+};
+```
 
-📧 **Email:** mmridul116@gmail.com  
-📱 **Phone:** +880 1719 877736
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" alt="Frontend Skills" />
+</p>
+
+### Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend Skills" />
+</p>
+
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,python,c,cpp" alt="Programming Languages" />
+</p>
+
+### Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools" />
+</p>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  
+[![Mridul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- 🔭 Building robust backend systems with **Node.js & Express.js**
+- 🌱 Mastering **Data Engineering** concepts and tools
+- 💡 Exploring **Microservices Architecture**
+- 📚 Deepening knowledge in **Database Optimization**
+- 🚀 Contributing to **Open Source Projects**
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mmridul116@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801719877736)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+
+</div>
+
+<div align="center">
+  
+### 📧 mmridul116@gmail.com | 📱 +880 1719 877736
+
+</div>
 
 ---
 
 <div align="center">
-  
-### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square)
+### 💭 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 📊 Profile Views
+
+![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=for-the-badge)
+
+---
+
+⭐️ From [MD. MOSTAK AHAMED MRIDUL](https://github.com/YOUR_GITHUB_USERNAME)
 
 </div>
