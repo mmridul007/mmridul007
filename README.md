@@ -38,7 +38,7 @@ Currently expanding skill set toward **Data Engineering** through structured lea
 
 ## GitHub Language Distribution
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmridul007&layout=compact&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mmridul007&layout=compact&hide_border=true" />
 </p>
 
 ---
